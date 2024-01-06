@@ -19,8 +19,8 @@ Make sure you have the following installed before running the application:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/sridhar8642/registration-form
+   cd registration-form
 ## Usage
 - Open your web browser and go to http://localhost:3000.
 - Fill out the registration form and click the "Register" button.
